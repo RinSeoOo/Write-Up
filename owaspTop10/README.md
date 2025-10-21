@@ -1,7 +1,7 @@
 # OWASP Top 10 (2021) 정리
 > 관련 링크: https://tryhackme.com/room/owasptop102021
 
-1. [Broken Access Control](https://github.com/RinSeoOo/Write-Up/blob/main/owaspTop10/Broken%20Access%20Control.md)
+1. [Broken Access Control](https://github.com/RinSeoOo/Write-Up/blob/main/owaspTop10/1.Broken%20Access%20Control.md)
 2. Cryptographic Failures 
 3. Injection
 4. Insecure Design
